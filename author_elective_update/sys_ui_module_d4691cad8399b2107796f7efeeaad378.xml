@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">7a1e3b9583d5b2107796f7efeeaad383</application>
+        <filter/>
+        <name>Create New NIM</name>
+        <order>100</order>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>admin,x_58872_needit.admin,x_58872_needit.needit_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-18 14:02:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4691cad8399b2107796f7efeeaad378</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create New NIM</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_d4691cad8399b2107796f7efeeaad378</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-18 14:12:57</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>caac7c03db8ef1902f082a59139619c6</instance_id>
+        <instance_name>dev195315</instance_name>
+        <name>sys_ui_module_d4691cad8399b2107796f7efeeaad378</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">7a1e3b9583d5b2107796f7efeeaad383</application><filter/><name>Create New NIM</name><order>100</order><path/><path_relative_to_root>false</path_relative_to_root><roles>admin,x_58872_needit.admin,x_58872_needit.needit_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-18 14:02:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d4691cad8399b2107796f7efeeaad378</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Create New NIM</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_d4691cad8399b2107796f7efeeaad378</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-18 14:12:57</sys_updated_on><table>x_58872_needit_needit</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>772319150</payload_hash>
+        <record_name>Create New NIM</record_name>
+        <reverted_from/>
+        <source>3e0c3f5183d5b2107796f7efeeaad3ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-18 14:12:57</sys_created_on>
+        <sys_id>590c98e183d9b2107796f7efeeaad31c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a974fbf1a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-18 14:12:57</sys_updated_on>
+        <type>Module</type>
+        <update_guid>950c98e166d9b210fd63d01419f3011b</update_guid>
+        <update_guid_history>950c98e166d9b210fd63d01419f3011b:772319150,2f9990ed6f99b210a7e5999d943e0c28:-1142580498</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-18 14:21:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>35865a6d4d1241208bfe5d84fa4618a4</sys_id>
+        <sys_metadata>d4691cad8399b2107796f7efeeaad378</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New NIM</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_d4691cad8399b2107796f7efeeaad378</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_d4691cad8399b2107796f7efeeaad378">590c98e183d9b2107796f7efeeaad31c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-18 14:21:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
